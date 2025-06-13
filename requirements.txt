@@ -1,0 +1,15 @@
+# requirements.txt
+# All dependencies for NYC Taxi Demand Forecast project
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+joblib
+h3
+folium
+streamlit-folium
+branca
+requests
